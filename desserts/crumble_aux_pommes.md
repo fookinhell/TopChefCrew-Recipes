@@ -1,11 +1,16 @@
 # Crumble aux pommes
 
+| Auteur         | Date           | Info  |
+| -------------- |:--------------:| -----:|
+| Flo            | 27/04/20       | ajout |
+|                |                |       |
+
 ## Ingrédients
 
 *pour 6 personnes*
 
 | Ingrédient              | Quantité     | Unité
-|-------------------------|-------------:|-------
+|:-----------------------:|-------------:|-------
 | Pommes golden           |          3~4 |
 | Sucre                   |           50 | g
 | Farine                  |          120 | g
