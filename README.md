@@ -1,6 +1,6 @@
 # TopChef-Recipes
 
-+ [Entrées](entrées/readme.md)
++ [Entrées](entrees/readme.md)
 + [Plats](plats/readme.md)
 + [Desserts](desserts/readme.md)
 + [Autres](autres/readme.md)
