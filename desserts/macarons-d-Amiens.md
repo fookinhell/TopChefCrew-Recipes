@@ -1,6 +1,6 @@
 # Macarons d'Amiens
 
-![photo des macarons](photos/macarons_d_amiens.jpg)
+![photo macarons](photos/macarons_d_amiens.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| -----:|
