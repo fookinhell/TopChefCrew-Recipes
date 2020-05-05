@@ -1,9 +1,13 @@
 # Titre recette
 
+![photo](chemin/vers/photo.jpg)
+
 | Auteur         | Date           | Info  |
-| -------------- |:--------------:| -----:|
-| <à remplacer>  |  `<date>`      | ajout |
+| -------------- |:--------------:| ----- |
+| Flo            |  `<date>`      | ajout |
 |                |                |       |
+
+___
 
 ## Ingrédients
 
