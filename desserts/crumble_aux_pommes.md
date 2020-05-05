@@ -1,9 +1,11 @@
 # Crumble aux pommes
 
+![photo crumble](photos/crumble_aux_pommes.jpg)
+
 | Auteur         | Date           | Info  |
-| -------------- |:--------------:| -----:|
+| -------------- |:--------------:| ----- |
 | Flo            | 27/04/20       | ajout |
-|                |                |       |
+| Flo            | 05/05/20       | ajout photo |
 
 ## Ingrédients
 

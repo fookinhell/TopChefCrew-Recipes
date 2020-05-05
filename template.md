@@ -1,6 +1,6 @@
-# Titre recette
+# <Titre recette>
 
-![photo](chemin/vers/photo.jpg)
+![photo](photos/<nom>.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

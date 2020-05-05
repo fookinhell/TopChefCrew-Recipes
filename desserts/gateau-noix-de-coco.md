@@ -1,9 +1,12 @@
 # Gâteau à la noix de coco
 
+![photo](chemin/vers/photo.jpg)
+
 | Auteur         | Date           | Info  |
-| -------------- |:--------------:| -----:|
+| -------------- |:--------------:| ----- |
 | Flo            |  05/05/20      | ajout |
-|                |                |       |
+
+___
 
 ## Ingrédients
 
