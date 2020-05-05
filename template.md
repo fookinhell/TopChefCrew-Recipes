@@ -9,7 +9,7 @@
 
 *pour X personnes*
 
-| Ingrédient              | Quantité     | Unité
+| Ingrédients             | Quantité     | Unité
 |:-----------------------:|-------------:|-------
 | Solide                  |           50 | g
 | Liquide                 |           20 | cl
