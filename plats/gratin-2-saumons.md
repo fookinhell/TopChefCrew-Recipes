@@ -1,4 +1,4 @@
-# Grâtin aux 2 samons
+# Grâtin aux 2 saumons
 
 ![photo](photos/<nom>.jpg)
 
