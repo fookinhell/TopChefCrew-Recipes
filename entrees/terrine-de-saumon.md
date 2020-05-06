@@ -35,3 +35,9 @@ ___
 * Beurrer un moule à cake, puis disposer dans l'ordre un tiers de la préparation, les haricots, le deuxième tiers, les carottes, et enfin le dernier tiers
 * Enfourner et laisser cuire pendant 30 minutes environ
 * Laisser refroidir avant de servir
+
+___
+
+### [Revenir aux entrées](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Entrées)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

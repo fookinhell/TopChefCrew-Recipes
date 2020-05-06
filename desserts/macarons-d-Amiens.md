@@ -32,3 +32,9 @@ ___
 * Faire un boudin de 4 cm de diamètre environ et couper des tranches de 2 cm d'épaisseur
 * Disposez-les tranches sur une plaque recouverte d'une feuille de papier sulfurisé
 * Faire cuire 15 min à th. 4 (120°)
+
+___
+
+### [Revenir aux desserts](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Desserts)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

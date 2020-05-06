@@ -34,3 +34,9 @@ ___
 * disposer les morceaux de pommes dans un moule et recouvrir de la préparation
 * parsemeer le tout avec du sucre vanillé
 * au four pendant 30 min. Laisser refroidir avant de servir
+
+___
+
+### [Revenir aux desserts](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Desserts)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

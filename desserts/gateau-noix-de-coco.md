@@ -25,3 +25,9 @@ ___
 
 * mélanger le tout
 * au four thermostat 6-7 (180-210°) pendant 50 min
+
+___
+
+### [Revenir aux desserts](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Desserts)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

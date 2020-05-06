@@ -28,3 +28,9 @@ ___
 * Beurrer le plat, disposer sucessivement une couche de pommes de terre, une de saumon fumé, une couche de pdt, une de saumon frais, et une dernière de pdt
 * Dans une casserole, faire chauffer la crème pour qu'elle se liquéfie, verser sur le plat de façon homogène
 * Mettre à cuire à feu moyen pendant 1h-1h15. Augmenter la puissance du four en fin de cuisson pour dorer le dessus du gratin
+
+___
+
+### [Revenir aux plats](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Plats)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)
