@@ -1,24 +1,25 @@
-# <Titre recette>
+# "Titre recette"
 
+<!-- me transmettre une photo (jpg, png, etc) pour que la mette ici -->
 ![photo](photos/<nom>.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
-| Flo            |  `<date>`      | ajout |
+| "auteur"       |  "date"        | ajout |
 |                |                |       |
 
 ___
 
 ## Ingrédients
 
-*pour X personnes*
+*pour X personnes / pour X cookies*
 
-| Ingrédients             | Quantité     | Unité
-|:-----------------------:|-------------:|-------
-| Solide                  |           50 | g
-| Liquide                 |           20 | cl
-| Sans unité              |            2 |
-| *facultatif*            |            1 | c.à.s.
+| Ingrédients              | Quantité     | Unité
+|:------------------------:|-------------:|-------
+| Solide                   |           50 | g
+| Liquide                  |           20 | cl
+| Sans unité               |            2 |
+| *ingrédient facultatif*  |            1 | c.à.s.
 
 ___
 
@@ -26,4 +27,4 @@ ___
 
 * étape
   * sous-étape
-* étape
+* **mots en gras**
