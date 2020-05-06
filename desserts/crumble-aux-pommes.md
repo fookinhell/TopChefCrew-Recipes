@@ -1,6 +1,6 @@
 # Crumble aux pommes
 
-![photo crumble](photos/crumble_aux_pommes.jpg)
+![photo](photos/crumble_aux_pommes.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
@@ -13,7 +13,7 @@
 
 | Ingrédient              | Quantité     | Unité
 |:-----------------------:|-------------:|-------
-| Pommes golden           |          3~4 |
+| Pommes golden           |          3-4 |
 | Sucre                   |           50 | g
 | Farine                  |          120 | g
 | Beurre                  |           70 | g
@@ -22,7 +22,7 @@
 
 ___
 
-## Preparation
+## Préparation
 
 * laver, éplucher, couper les pommes en petits morceaux, les faire revenir avec un peu de beurre *(+ sirop d'érable)*
 * préchauffer le four à 210°C (th.6)

@@ -25,9 +25,9 @@ ___
 
 ___
 
-## Preparation
+## Préparation
 
-* Pour le choix des pommes de terre, en prendre des pas trop grosses (belles de Fontenay, charlottes...), éciter les rattes ou autres pommes de terre trop fermes
+* Pour le choix des pommes de terre, en prendre des pas trop grosses (belles de Fontenay, charlottes...), éviter les rattes ou autres pdt trop fermes
 * Poser sur la tôle une des pâtes feuilletées (avec son papier) en laissant déborder le surplus, piqueter le fond avec une fourchette jusqu’à 2 cm des bords, mettre au réfrigérateur au moins 1/2 heure. Découper dans l'autre pâte feuilletée un cercle de 22 cm environ de diamètre, le mettre également au réfrigérateur. 
 * Hacher finement au couteau oignon et ail, ciseler le persil, bien mélanger.
 * Préchauffer le four à 200°. 

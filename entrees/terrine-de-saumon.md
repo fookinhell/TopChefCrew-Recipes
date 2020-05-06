@@ -1,6 +1,6 @@
 # Terrine de saumon
 
-![photo](photos/<nom>.jpg)
+![manque photo](photos/<nom>.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
@@ -25,7 +25,7 @@ ___
 
 ___
 
-## Preparation
+## Préparation
 
 * Préchauffer le four th.7-8 (210-240°)
 * Couper les carottes en lanières et faites-les cuire pendant 10 min dans une casserole d'eau bouillante salée

@@ -1,6 +1,6 @@
 # Macarons d'Amiens
 
-![photo macarons](photos/macarons_d_amiens.jpg)
+![photo](photos/macarons_d_amiens.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| -----:|
@@ -24,7 +24,7 @@ ___
 
 ___
 
-## Preparation
+## Préparation
 
 * Mélanger tous les ingredients notés (1) pour former une pâte
 * Ajouter ensuite les ingrédients en (2)

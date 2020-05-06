@@ -22,7 +22,7 @@ ___
 
 ___
 
-## Preparation
+## Préparation
 
 * étape
   * sous-étape

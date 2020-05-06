@@ -22,7 +22,7 @@ ___
 
 ___
 
-## Preparation
+## Préparation
 
 * Éplucher et couper les pommes de terre en fines lamelles. Les mettre dans un plat, saler et poivrer
 * Beurrer le plat, disposer sucessivement une couche de pommes de terre, une de saumon fumé, une couche de pdt, une de saumon frais, et une dernière de pdt

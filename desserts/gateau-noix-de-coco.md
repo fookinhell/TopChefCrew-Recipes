@@ -1,6 +1,6 @@
 # Gâteau à la noix de coco
 
-![photo](chemin/vers/photo.jpg)
+![manque photo](chemin/vers/photo.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
@@ -21,7 +21,7 @@ ___
 
 ___
 
-## Preparation
+## Préparation
 
 * mélanger le tout
 * au four thermostat 6-7 (180-210°) pendant 50 min
