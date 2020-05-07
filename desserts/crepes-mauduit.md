@@ -1,11 +1,11 @@
-# "Les crêpes Mauduit"
+# Les crêpes Mauduit
 
 <!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
 ![photo](photos/<nom>.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
-| "Cam"      |  "06/05/2020"  | ajout |
+| Cam            | 06/05/2020     | ajout |
 |                |                |       |
 
 ___
@@ -16,16 +16,16 @@ ___
 
 | Ingrédients               | Quantité     | Unité
 |:-------------------------:|-------------:|-------
-| Farine		    |          250 | g
-| Sucre                     |           100| g
-| Sel	                    |            5 | g
-| Oeufs			    |            5 | 
-| Crême liquide 	    |         12,5 | cl
-| Lait 			    |          0,5 | l
-| Beurre fondue 	    |           40 | g
-| Bière		 	    |         12,5 | cl
-| _Grand marnier_           |     Une larme|
-| _Zestes d'orange confite_ |              | 
+| Farine                    |          250 | g
+| Sucre                     |          100 | g
+| Sel                       |            5 | g
+| Oeufs                     |            5 |
+| Crême liquide             |         12,5 | cl
+| Lait                      |          0,5 | l
+| Beurre fondu              |           40 | g
+| Bière                     |         12,5 | cl
+| _Grand marnier_           |            1 | larme
+| _Zestes d'orange confite_ |              |
 
 ___
 
