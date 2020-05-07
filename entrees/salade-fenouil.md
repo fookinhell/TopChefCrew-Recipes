@@ -1,4 +1,4 @@
-# "Salade de fenouil"
+# Salade de fenouil
 
 <!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
 ![photo](photos/salade_fenouil.jpg)
