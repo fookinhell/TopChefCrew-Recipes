@@ -5,7 +5,7 @@
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
-| "auteur"       |  "date"        | ajout |
+| auteur         | date           | ajout |
 |                |                |       |
 
 ___
@@ -27,7 +27,4 @@ ___
 ## Préparation
 
 * étape
-  * sous-étape
-<!-- deux espaces suffisent  -->
-* mots en **gras**
-* on peut combiner ***gras et italique***
+  * sous-étape (avec 2 espaces avant le marqueur de liste)
