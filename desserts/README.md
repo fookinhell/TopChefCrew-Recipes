@@ -6,4 +6,4 @@
 
 ___
 
-### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)
+## [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)
