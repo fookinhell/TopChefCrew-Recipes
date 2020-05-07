@@ -1,3 +1,0 @@
-# Autres
-
-+ [Béchamel](.md)
