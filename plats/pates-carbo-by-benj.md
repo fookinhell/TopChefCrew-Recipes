@@ -37,12 +37,14 @@ ___
 2. Ciseler votre belle gousse d'ail
 3. Ajouter les lardons dans la poêle chaude et attendre qu'ils se mettent à suer et colorer
 4. Baisser le feu à doux-moyen et ajouter l'ail
-5. Dans un petit récipient ajouter les jaunes d'oeuf et le parmesan
+5. Dans un petit récipient ajouter les jaunes d'oeuf, le parmesan et bien poivrer
     * _Niveau texture ça va faire une pommade granulée_
-6. On oublie pas de prélever un peu d'eau des pates quand on s'approche de la fin de la cuisson !!
-7. On éteint le feu et on verse les pates dans la poele
-8. On ajoute la pommade de parmesan là dedans et on y ajoute de l'eau de cuisson
+6. Egouttez les pates
+    * _En ayant pas oublié de prélever un peu d'eau des pates proche de la fin de cuisson !!_
+7. On éteint le feu sous la poele et on y ajoute les pates
+8. On incorpore la pommade de parmesan là dedans, avec de l'eau de cuisson
+    * _Attention, mieux vaut ajouter trop peu d'eau au début, quitte à en rajouter.
 9. Le fameux Mantecare c'est maintenant ;)
-    * _Attention, mieux vaut ajouter trop peu d'eau au début, quitte à en rajouter. La texture va devenir crémeuse comme par magie_
-    * _Point important: veillez à ce que ce soit pas trop chaud sous la poêle, la chaleur de l'eau des pates fait bien le boulot_
+    * _La texture va devenir crémeuse comme par magie_
+    * **_Point important: veillez à ce que ce soit pas trop chaud sous la poêle, la chaleur de l'eau des pates fait bien le boulot_**
 10. On sert ça bien chaud et on maxidose de parmesan, régalez vous <3
