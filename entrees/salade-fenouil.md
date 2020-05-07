@@ -1,11 +1,11 @@
 # "Salade de fenouil"
 
 <!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+![photo](photos/salade_fenouil.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
-| "Cam"          |  "06/05/2020"  | ajout |
+| Cam            | 06/05/2020     | ajout |
 |                |                |       |
 
 ___
@@ -16,12 +16,12 @@ ___
 
 | Ingrédients               | Quantité     | Unité
 |:-------------------------:|-------------:|-------
-| Fenouil		    |            2 | 
-| Orange		    |            1 | 
+| Fenouil                   |            2 |
+| Orange                    |            1 |
 | Echalote                  |            1 |
 | Vinaigre balsamique       |            1 | c.à.s.
 | Huile d'olive             |            1 | c.à.s.
-| Cumin                     |     1 pincée | 
+| Cumin                     |            1 | pincée
 
 ___
 

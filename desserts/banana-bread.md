@@ -1,11 +1,11 @@
 # "Banana bread"
 
 <!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+![photo](photos/banana_bread.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
-| "Cam"          |  "06/05/2020"  | ajout |
+| Cam            | 06/05/2020     | ajout |
 |                |                |       |
 
 ___
