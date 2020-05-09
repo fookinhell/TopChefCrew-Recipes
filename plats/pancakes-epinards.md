@@ -1,6 +1,6 @@
 # Pancakes aux épinards
 
-![photo](photos/<nom.jpg Pancakes_epinard.jpg)
+![photo](photos/pancakes_epinard.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
