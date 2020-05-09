@@ -1,4 +1,4 @@
-# "Pancakes aux épinards "
+# Pancakes aux épinards
 
 ![photo](photos/<nom.jpg Pancakes_epinard.jpg)
 
@@ -24,7 +24,7 @@ ___
 | Oignon |            1/2 | 
 | Curcuma|            1 | c. à café
 | Sel & poivre|            | 
-| *parmesan* |            20 | g
+| *Parmesan* |            20 | g
 
 ___
 
