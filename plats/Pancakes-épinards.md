@@ -1,5 +1,7 @@
 # "Pancakes aux épinards "
 
+![photo](photos/<nom.jpg Pancakes_epinard.jpg)
+
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
 | Lilou          | 9 Mai          | ajout |
