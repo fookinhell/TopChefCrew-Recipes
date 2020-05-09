@@ -1,6 +1,6 @@
 # "Gnocchi brocolis et crème de gorgonzola"
 
-![photo](photos/<Pancakes_epinard.jpg)
+![photo](photos/<Gnocchis_brocolis.jpeg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
