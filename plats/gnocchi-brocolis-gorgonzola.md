@@ -1,4 +1,4 @@
-# "Gnocchi brocolis et crème de gorgonzola"
+# Gnocchi brocolis et crème de gorgonzola
 
 ![photo](photos/<Gnocchis_brocolis.jpeg)
 
