@@ -1,6 +1,5 @@
 # "Banana bread"
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
 ![photo](photos/banana_bread.jpg)
 
 | Auteur         | Date           | Info  |

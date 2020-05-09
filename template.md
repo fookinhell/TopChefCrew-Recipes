@@ -1,7 +1,6 @@
 # "Titre recette"
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+![photo](photos/<nom.jpg ou nom.png>)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

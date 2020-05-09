@@ -1,4 +1,4 @@
-# "La Carbo des Gourmands"
+# La Carbo des Gourmands
 
 <!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
 ![photo](photos/<nom>.jpg)
