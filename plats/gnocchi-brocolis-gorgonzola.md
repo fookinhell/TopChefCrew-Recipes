@@ -1,6 +1,6 @@
 # Gnocchi brocolis et crème de gorgonzola
 
-![photo](photos/<Gnocchis_brocolis.jpeg)
+![photo](photos/Gnocchis_brocolis.jpeg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
