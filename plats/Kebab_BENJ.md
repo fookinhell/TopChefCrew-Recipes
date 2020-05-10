@@ -1,7 +1,7 @@
 # Le Kebz
 
 <!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+![photo](photos/UNADJUSTEDNONRAW_thumb_15f8.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
