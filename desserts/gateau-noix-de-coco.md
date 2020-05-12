@@ -1,6 +1,8 @@
 # Gâteau à la noix de coco
 
-![manque photo](chemin/vers/photo.jpg)
+TODO : PRENDRE PHOTO PERSO 
+
+![photo](photos/gateau_coco.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

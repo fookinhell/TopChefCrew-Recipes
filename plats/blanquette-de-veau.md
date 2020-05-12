@@ -1,7 +1,8 @@
 # "La blanquette de veau de ma maman"
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+TODO : PRENDRE PHOTO PERSO
+
+![photo](photos/blanquette_veau.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

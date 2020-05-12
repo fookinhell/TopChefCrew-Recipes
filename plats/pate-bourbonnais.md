@@ -1,5 +1,7 @@
 # Pâté bourbonnais
 
+TODO : PRENDRE PHOTO PERSO
+
 ![photo](photos/pate_bourbonnais.jpg)
 
 | Auteur         | Date           | Info  |

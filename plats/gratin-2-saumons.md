@@ -1,6 +1,8 @@
 # Grâtin aux 2 saumons
 
-![photo](photos/<nom>.jpg)
+TODO : PRENDRE PHOTO PERSO
+
+![photo](photos/gratin_deux_saumons.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

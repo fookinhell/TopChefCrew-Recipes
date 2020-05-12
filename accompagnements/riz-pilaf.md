@@ -1,6 +1,8 @@
 # Le Riz Pilaf
 
-![photo](photos/nom_recette.jpg)
+TODO : PRENDRE PHOTO PERSO
+
+![photo](photos/riz_pilaf.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

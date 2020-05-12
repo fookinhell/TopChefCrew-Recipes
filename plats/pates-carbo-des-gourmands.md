@@ -1,7 +1,8 @@
 # La Carbo des Gourmands
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+TODO : PRENDRE PHOTO PERSO
+
+![photo](photos/pates_carbo_gourmands.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

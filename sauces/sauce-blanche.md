@@ -1,7 +1,8 @@
 # La Sauce Blanche comme au ke-gré
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+TODO : PRENDRE PHOTO PERSO
+
+![photo](photos/sauce_blanche.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
@@ -16,9 +17,9 @@ ___
 
 | Ingrédients                  | Quantité     | Unité
 |:----------------------------:|-------------:|-------
-| Yaourt Grec                  |            1 | 
-| Citron                       |          1/4 | 
-| Ail                          |            1 | petite gousse 
+| Yaourt Grec                  |            1 |
+| Citron                       |          1/4 |
+| Ail                          |            1 | petite gousse
 | Echalotte                    |            1 | petite
 | Paprika                      |            1 | pincée
 | Cumin                        |            1 | pincée
@@ -31,7 +32,7 @@ ___
 
 1. Ciseler l'ail, l'échalote, le persil et la menthe
 2. Dans un récipient ajouter le yaourt grec et le 1/4 de citron pressé
-3. Ajouter les ingrédients ciselés et les épices, saler poivrer légèrement 
+3. Ajouter les ingrédients ciselés et les épices, saler poivrer légèrement
 4. Ajuster l'assaisonnement si besoin
 
 ___

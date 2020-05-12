@@ -1,6 +1,8 @@
 # Terrine de saumon
 
-![manque photo](photos/<nom>.jpg)
+TODO : PRENDRE PHOTO PERSO
+
+![photo](photos/terrine_saumon.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |

@@ -1,6 +1,7 @@
 # Les crêpes Mauduit
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
+TODO : PRENDRE PHOTO PERSO
+
 ![photo](photos/<nom>.jpg)
 
 | Auteur         | Date           | Info  |

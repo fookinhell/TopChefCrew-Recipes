@@ -1,5 +1,7 @@
 # Tagliatelles au pesto et crevettes
 
+TODO : PRENDRE PHOTO PERSO
+
 ![photo](photos/pates_pesto_crevettes.jpg)
 
 | Auteur         | Date           | Info  |

@@ -1,5 +1,6 @@
 # Macarons d'Amiens
 
+TODO : PRENDRE PHOTO PERSO 
 ![photo](photos/macarons_d_amiens.jpg)
 
 | Auteur         | Date           | Info  |
