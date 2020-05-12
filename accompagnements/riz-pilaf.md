@@ -1,7 +1,6 @@
 # Le Riz Pilaf
 
-<!-- me transmettre une photo (jpg, png, etc) pour que je la mette ici -->
-![photo](photos/<nom>.jpg)
+![photo](photos/nom_recette.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
@@ -17,8 +16,8 @@ ___
 | Ingrédients                  | Quantité     | Unité
 |:----------------------------:|-------------:|-------
 | Riz                          |           125| g
-| Oignon                       |            1 | 
-| Bouillon de Poule            |           1/2| 
+| Oignon                       |            1 |
+| Bouillon de Poule            |           1/2|
 | Eau                          |           25 | cl
 
 ___
