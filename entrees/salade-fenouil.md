@@ -33,3 +33,9 @@ ___
 4. Assembler les différents éléments dans un joli plat
 
 _Cette salade accompagnera parfaitement un bon barbecue_
+
+___
+
+### [Revenir aux entrées](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Entrées)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)
