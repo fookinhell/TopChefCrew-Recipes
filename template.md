@@ -1,6 +1,6 @@
 # "Titre recette"
 
-![photo](photos/<nom.jpg ou nom.png>)
+![photo](photos/nom_recette.jpg)
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
