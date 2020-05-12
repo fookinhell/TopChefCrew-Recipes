@@ -35,3 +35,9 @@ ___
 * Ajoutez les épinards et l’oignon. Mixez grossièrement.
 * Versez une louche de pâte dans une poêle antiadhésive légèrement huilée et laissez cuire quelques secondes, jusqu’à voir apparaître des bulles.
 * Retournez le pancake et faites cuire l’autre face. Répétez jusqu’à épuisement des ingrédients.
+
+___
+
+### [Revenir aux plats](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Plats)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

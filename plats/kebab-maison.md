@@ -54,3 +54,9 @@ ___
 2. Dans une sauteuse, sans matière grasses, bien chaude, on envoi la viande et on laisse jusqu'a coloration
 3. On prend son pain ou sa galette, on met une bonne dose de @La Sauce Blanche comme au kebz, les crudités, et la viande cuites.
 4. On dégomme ça et on recommence <3
+
+___
+
+### [Revenir aux plats](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Plats)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

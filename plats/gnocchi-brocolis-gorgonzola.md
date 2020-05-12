@@ -31,3 +31,9 @@ ___
 * Peler et hacher la gousse d’ail, la faire revenir dans une poêle avec un filet d’huile d’olive. 
 * Ajouter les gnocchis, faire rissoler et ajouter le brocolis cuits vapeur.
 * Ajouter la crème liquide, le gorgonzola, mélanger le tout, saler, poivrer et ajouter des noix.
+
+___
+
+### [Revenir aux plats](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Plats)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

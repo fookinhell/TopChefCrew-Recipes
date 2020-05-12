@@ -47,3 +47,9 @@ ___
 9. Versez cette préparation dans la cocotte, mélangez bien, et laissez venir à bouillottement. 
 
 _Servez ce plat accompagné de riz. **Encore meilleur lorsque ce plat est préparé la veille et réchauffé pour servir le jour J.**_
+
+___
+
+### [Revenir aux plats](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Plats)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

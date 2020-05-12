@@ -36,3 +36,9 @@ ___
 5. A déguster au petit-déjeuner ou comme encas avant une séance de sport (ça motiverait presque à en faire)
 
 _Plus les bananes sont mûres, meilleur c'est!_
+
+___
+
+### [Revenir aux desserts](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Desserts)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

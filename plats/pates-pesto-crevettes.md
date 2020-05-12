@@ -4,7 +4,7 @@
 
 | Auteur         | Date           | Info  |
 | -------------- |:--------------:| ----- |
-| Lilou         | Mai 2020         | ajout |
+| Lilou          | Mai 2020       | ajout |
 |                |                |       |
 
 ___
@@ -35,3 +35,9 @@ ___
 * Lorsque l'oignon est blanchi, ajouter les crevettes (et les courgettes/carottes). Lorsque les crevettes sont dorées, ajouter les tagliatelles et cuire une minute.
 * Ajouter le pesto et bien mélanger le tout. Cuire une minute ou deux pour réchauffer la sauce. Retirer du feu.
 * Servir dans de grands bols ou assiettes et parsemez d'amandes effilées. 
+
+___
+
+### [Revenir aux plats](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Plats)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)

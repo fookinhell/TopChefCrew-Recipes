@@ -36,3 +36,9 @@ ___
 * Huiler légèrement une poêle à crêpes et les faire cuire tout en leur faisant faire de jolis sauts périlleux
 
 _À servir avec un petit plaisir sucré (confiture maison, beurre fondue, sucre, pâte à tertiner, etc..) ou à faire flamber avec un mélange jus d'agrumes/grand marnier (c'est une tuerie) !_
+
+___
+
+### [Revenir aux desserts](https://github.com/fookinhell/TopChefCrew-Recipes/wiki/Desserts)
+
+### [Revenir au sommaire](https://github.com/fookinhell/TopChefCrew-Recipes/wiki)
