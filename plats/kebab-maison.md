@@ -35,9 +35,9 @@ ___
 #### Marinade
 
 1. Avec un couteau bien aiguisé, couper votre veau en tranche très fines (pas besoin que ce soit propre juste bien fin)
-2. Dans un mixer, ajouter le yaourt grec et l'oignons grossièrement coupé, bien mixer.
+2. Dans un mixer, ajouter le yaourt grec et l'oignon grossièrement coupé, bien mixer.
 3. Ajouter les épices, sel, poivre et mixer de nouveau (ajuster l'assaisonnement al gusto)
-4. Dans un saladier verser la marinade, ajouter la viande et bien mélanger
+4. Dans un saladier verser la marinade ainsi obtenu, ajouter la viande et bien mélanger
 
 #### Montage de la "Broche"
 
@@ -50,8 +50,8 @@ ___
   
 #### Chef Kebabier
 
-1. La viande se tient bien, on enlève le film et on coupe coupe si c'était un saucisson, les petits bouts de kebab se forment
-2. Dans une sauteuse, sans matière grasses, bien chaude, on envoi la viande et on laisse jusqu'a coloration
+1. La viande se tient bien, on enlève le film et on coupe comme si c'était un saucisson, les petits bouts de kebab se forment
+2. Dans une sauteuse, sans matière grasses, bien chaude, on envoi la viande et on laisse cuire jusqu'a coloration
 3. On prend son pain ou sa galette, on met une bonne dose de @La Sauce Blanche comme au kebz, les crudités, et la viande cuites.
 4. On dégomme ça et on recommence <3
 
