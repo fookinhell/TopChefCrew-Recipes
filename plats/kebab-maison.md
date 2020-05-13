@@ -52,7 +52,7 @@ ___
 
 1. La viande se tient bien, on enlève le film et on coupe coupe si c'était un saucisson, les petits bouts de kebab se forment
 2. Dans une sauteuse, sans matière grasses, bien chaude, on envoi la viande et on laisse jusqu'a coloration
-3. On prend son pain ou sa galette, on met une bonne dose de @La Sauce Blanche comme au kebz, les crudités, et la viande cuites.
+3. On prend son pain ou sa galette, on met une bonne dose de [sauce blanche](https://github.com/fookinhell/TopChefCrew-Recipes/blob/master/sauces/sauce-blanche.md) comme au kebz, les crudités, et la viande cuites.
 4. On dégomme ça et on recommence <3
 
 ___
